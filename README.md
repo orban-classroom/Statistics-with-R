@@ -5,17 +5,17 @@ R Exercises for second year undergraduate statistics courses.
 
 # Topic Areas
 
-[Concept 1: Basic Concepts: Notation & Summation](live/1-intro.r)
+Concept 1: Basic Concepts: Notation & Summation
 
-[Concept 2: Frequency Distributions](live/2-freqTablesHitograms.r)
+Concept 2: Frequency Distributions
 
-[Concept 3: Central Tendency](live/3-centralTendency.r)
+Concept 3: Central Tendency
 
-[Concept 4: Linear Transformations](live/4-variability.r)
+Concept 4: Linear Transformations
 
-[Concept 6: Variability](live/5-zscores.r)
+Concept 6: Variability
 
-[Concept 7: Probability (Discrete and Continuous Variables)](live/6-probability.r)
+Concept 7: Probability (Discrete and Continuous Variables)
 
 Concept 8: Hypothesis Testing
 
