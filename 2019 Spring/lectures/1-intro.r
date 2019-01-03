@@ -80,6 +80,8 @@ x * z
 
 x + 4000
 
+
+
 # An R function is invoked by its name, then followed by the parenthesis, and zero or more arguments. The following applies the function c to combine three numberic values into a vector.
 y = c(1,2,3)
 
@@ -123,9 +125,8 @@ employmentStatus[3]
 # Pick out the third, fourth and fifth elements from the list
 employmentStatus[3:5]
 
-## Building a data file
-subjectID = c(101,102,103,104,105)
-demographics = c("Surrey","Surrey","Delta","Vancouver","Langley")
-employmentStatus = c(TRUE,TRUE,FALSE,FALSE,TRUE)
-data = data.frame(subjectID, demographics, employmentStatus)
-data
+
+
+
+
+
