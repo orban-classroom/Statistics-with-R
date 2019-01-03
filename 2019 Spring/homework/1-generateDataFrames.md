@@ -1,5 +1,5 @@
 # R Homework 1
-## Deadline January 10th at 23:59 p.s.t. on Moodle
+## Deadline January 10th at 23:55 pst on Moodle
 
 * Create an empty R script file. 
 
