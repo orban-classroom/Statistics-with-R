@@ -1,4 +1,4 @@
-Create an empty R script file. 
+# Create an empty R script file. 
 
 Look up Simpson's Paradox data in your textbook readings. Work with the bigger table that includes departmental break down of admissions (departments' anonymized as A, B, C, D, E, F).
 
