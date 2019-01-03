@@ -126,7 +126,14 @@ employmentStatus[3]
 employmentStatus[3:5]
 
 
-
+# Logical Operators
+#
+# less than <, or equal to <= 
+# greater than >, or equal to >= 
+# equal to ==, not != 
+# not ! 
+# or |
+# and &
 
 
 
