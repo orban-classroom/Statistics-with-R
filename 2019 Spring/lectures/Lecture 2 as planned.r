@@ -4,6 +4,7 @@ y = c(1,2,3)
 # Vectors can contain string values too
 colours = c("red","yellow","blue")
 
+
 # Text after the hastag sign within the samel line is considered a comment: 
 1 + 1   # this is a comment
 
@@ -102,3 +103,6 @@ formula2 <-  out ~ pred1 + pred2 # more than one variable on the right
 formula3 <-  out ~ pred1 * pred2 # different relationship between predictors
 formula4 <-  ~ var1 + var2 # a ’one-sided’ formula
 
+# Using help
+
+?sum
