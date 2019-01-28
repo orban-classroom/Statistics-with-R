@@ -83,6 +83,7 @@ sqd <- ((data$var1 - mean(data$var1))^2)/n
 msqd <- sum(sqd)  # sum of squared deviations
 msqd
 
+table(sqd,msqd)
 
 # new fashioned way
 var(data$var1)

@@ -1,0 +1,5 @@
+Berger and Anaki disgust scale 2014 spss (text/tab-separated-values) 178701 bytes.
+Berger and Anaki disgust scale 2014_1 tab delimeted (text/plain; charset=US-ASCII) 176510 bytes.
+DS-R_Hebrew.pdf (application/pdf) 66778 bytes.
+synatx in txt format.txt (text/plain; charset=US-ASCII) 614 bytes.
+syntax for removal and recoding.sps (text/x-spss-syntax; charset=UTF-8) 617 bytes.
