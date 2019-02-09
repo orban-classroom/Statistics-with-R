@@ -23,7 +23,7 @@ var1 <- c(45,49,46,48,49,42,50,42,20,50,49,56,49,40,56,42,45,49,50,56,46,56,35,3
 
 ##
 ## Data frame subsetting
-## Data frame subsetting is complex because there are multiple columns of values
+## Data frame subsetting is complex because you can filter by columns or by rows. We will typically use row based selections.
 ##
 
 ## Your class data has been posted as a csv file. Load this URL into a data frame: 
