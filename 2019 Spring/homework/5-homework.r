@@ -19,6 +19,8 @@ var1 <- c(45,49,46,48,49,42,50,42,20,50,49,56,49,40,56,42,45,49,50,56,46,56,35,3
 
 # Select the 2nd through the 10th element on the list
 
+# Select all values equal to 50.
+
 ##
 ## Data frame subsetting
 ## Data frame subsetting is complex because there are multiple columns of values
