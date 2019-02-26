@@ -15,3 +15,4 @@
 # 6. Create a custom function that calculates variance of a variable.
 
 # 7. Using your new custom function, compute the variance of the NumCritical and NumNonCritical values, separately for routine and follow-up visits. 
+
