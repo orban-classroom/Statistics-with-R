@@ -27,7 +27,7 @@ rm(list=ls())
 # consistent in their performance across tasks (context consistency). Neophobic and exploratory tendencies 
 # determined the willingness of birds to engage only in the seed discrimination task. 
 
-# Data URL: ---
+# Data URL: https://raw.githubusercontent.com/llorban/KPU-Statistics-2300/master/2019%20Spring/exams/exam2/Exam%202_live.R
 
 ## PART A
 ## 5 pt | What is the concept of the standard error of the mean? Define.
