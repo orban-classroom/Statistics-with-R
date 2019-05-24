@@ -25,11 +25,15 @@ examdata <- data.frame(
 ## Compute the median of each of the two variables in the data frame using "fast way."
 
 
+## Compute the mode of each of the two variables in the data frame using the only way we learned.
+
+
 ## Generate a histogram for each of the variables, and describe their shape using concept from Chapter 5 (skewness, kurtosis, normality). 
 ## Add your comments as hashtags
 
 
 ## Generate a boxplot for each of the variables
+
 
 ## Save your work as an R script file, and upload it to Moodle. 
 
