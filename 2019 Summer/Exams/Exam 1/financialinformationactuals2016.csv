@@ -1,0 +1,65 @@
+"","Department","FinancialPlanDivision","Salaries","OperatingCosts","InternalServices"
+"1","Corporate","Corporate",32,17,47
+"2","Grants","MCG - City Grants",1,6,1
+"3","Mayor & Council","MCG - Office of the Mayor",45,14,53
+"4","Mayor & Council","MCG - Council",42,63,1
+"5","City Manager","City Mgr - Administration",44,20,52
+"6","City Manager","City Mgr - By-law Services",40,8,54
+"7","City Manager","City Mgr - Public Safety",55,29,37
+"8","City Manager","City Mgr - Legal Services",13,22,44
+"9","City Manager","City Mgr - Legislative Services",12,3,23
+"10","City Manager","IIR - Economic Development",50,50,24
+"11","City Manager","IIR - Administration",23,19,20
+"12","Human Resources","HR - Administration",2,57,12
+"13","Human Resources","HR - Employment",53,15,36
+"14","Human Resources","HR - Labour Relations/Compensation",52,59,48
+"15","Human Resources","HR - Occupational Safety",46,60,4
+"16","Human Resources","HR - Wellness & Diversity",25,61,26
+"17","Finance and Technology","F&T - Audit Procurement",9,18,7
+"18","Finance and Technology","F&T - Financial Services",30,12,21
+"19","Finance and Technology","F&T - Financial Reporting",8,10,11
+"20","Finance and Technology","F&T - Information Technology",57,54,15
+"21","Finance and Technology","F&T - Leadership",5,62,27
+"22","Finance and Technology","F&T - Risk Management",37,42,32
+"23","Planning and Development","P&D - Administration",27,55,9
+"24","Planning and Development","P&D - Area Planning & Development",29,38,46
+"25","Planning and Development","P&D - Building",48,46,25
+"26","Planning and Development","P&D - Community Planning",11,40,14
+"27","Planning and Development","P&D - Facilities",35,41,34
+"28","Planning and Development","P&D - Heritage Advisory Committee",1,43,45
+"29","Planning and Development","P&D - Sustainability",36,28,10
+"30","Fire","Fire - Administration",20,39,42
+"31","Fire","Fire - Emergency Planning",24,52,5
+"32","Fire","Fire - Operations",38,25,18
+"33","Fire","Fire - Mechanics",41,51,1
+"34","Fire","Fire - Prevention",3,31,49
+"35","Fire","Fire - Radio & Communications",21,2,1
+"36","Fire","Fire - Training",49,13,59
+"37","RCMP","RCMP - Corporate Services",34,26,22
+"38","RCMP","RCMP - Information Services &Technology",51,34,1
+"39","RCMP","RCMP - Management & RCMP Finance",4,11,17
+"40","RCMP","RCMP - Operations",56,5,58
+"41","RCMP","RCMP - Contract",1,16,1
+"42","Parks, Recreation and Culture","PRC - Administration",19,4,30
+"43","Parks, Recreation and Culture","PRC - Arenas",31,7,31
+"44","Parks, Recreation and Culture","PRC - Art Centre",22,9,50
+"45","Parks, Recreation and Culture","PRC - Community Recreation Services",15,36,38
+"46","Parks, Recreation and Culture","PRC - Healthy Communities",10,37,8
+"47","Parks, Recreation and Culture","PRC - Heritage Services",7,47,40
+"48","Parks, Recreation and Culture","PRC - Indoor Pools",17,35,41
+"49","Parks, Recreation and Culture","PRC - Marketing",6,58,29
+"50","Parks, Recreation and Culture","PRC - Outdoor Pools",1,64,2
+"51","Parks, Recreation and Culture","PRC - Parks Division",16,21,16
+"52","Engineering","Eng - Operations",26,49,43
+"53","Engineering","Eng - Professional Services",47,45,3
+"54","Engineering","Eng - Land Development",28,1,33
+"55","Engineering","Eng - Realty Services",18,24,55
+"56","Engineering","N/A",1,30,35
+"57","Engineering","N/A",39,23,13
+"58","Engineering","N/A",43,56,56
+"59","Engineering","N/A",33,32,19
+"60","Engineering","N/A",1,48,57
+"61","Engineering","N/A",1,44,6
+"62","Engineering","N/A",1,53,51
+"63","Library","Lib - Administration",54,33,28
+"64","Library","Lib - Public Services",14,27,39
