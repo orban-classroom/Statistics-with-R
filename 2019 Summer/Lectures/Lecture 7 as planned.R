@@ -38,7 +38,18 @@ prob.greater.than.four <- vals.greater.than.four / total.vals
 prob.greater.than.four
 
 
-## binomial distribution
+## Random number generation
 
-dbinom(x = 10, size = 100, prob = .5)
+runif(1)
 
+runif(3)
+
+runif(3, min = 5, max = 10)
+
+## From a normal distribution
+
+rnorm(1)
+
+rnorm(3)
+
+rnorm(3, mean = 10, sd = 2)
