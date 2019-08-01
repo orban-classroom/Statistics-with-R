@@ -26,7 +26,7 @@
 ##   2. Help pages in R: ?function
 
 
-# Link to data: 
+# Link to data: https://raw.githubusercontent.com/llorban/KPU-Statistics-2300/master/2019%20Summer/Exams/Michaelsen_et_al_FA.csv
 
 ## Clear your global environment variables (2 points)
 
