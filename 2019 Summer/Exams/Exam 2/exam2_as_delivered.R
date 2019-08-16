@@ -1,7 +1,7 @@
 ## EXAM 2, 112 points
 
 ## YOUR GOAL: Look at the real data problem, and conduct the appropriate tests to draw conclusions. 
-## Specifically, you will look at anomalies in a fish's eye symmetry before and after the Deepwater Horizon oil 
+## Specifically, you will look at anomalies in a fish's "pec" variable before and after the Deepwater Horizon oil 
 ## spill off the coast of Florida.
 
 ## DATA ABSTRACT: 
