@@ -1,4 +1,4 @@
-## t-test Lecture 12
+## t-test Lecture 9 (Week 12)
 
 
 ## install.packages("moments") ## to do this one time
