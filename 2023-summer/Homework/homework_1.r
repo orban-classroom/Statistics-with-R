@@ -9,6 +9,7 @@
 # because I would like everyone to troubleshoot together. 
 
 # Decide on a variable naming scheme for your variables.
+# Read up on naming schemes: https://www.r-bloggers.com/2014/07/consistent-naming-conventions-in-r/
 # Using a hashtag comment below, state your naming format
 
 # Create a variable with the number 10. 
