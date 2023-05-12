@@ -1,4 +1,5 @@
 # Homework 1
+# S10 & S50
 
 # Instructions
 # Download this R Script and load it in your copy of R Studio
