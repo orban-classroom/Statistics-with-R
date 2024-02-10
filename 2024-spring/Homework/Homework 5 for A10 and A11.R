@@ -1,44 +1,42 @@
-## Homework 4
-############
+## Homework 5
+##############
 
-## Load the PSYC2300 class survey data here.
-## You can find the raw GitHub link in the usual location.
+## You will use a new data set for this week, dealing with disgust sensitivity
+## View the package here: https://github.com/orban-classroom/Statistics-with-R/tree/master/2024-spring/Data/disgustscale
 
+## Read about the data set by looking at the 10-91-1-PB.pdf file.
 
-## Use the dependents variable for this homework. 
+## Load the disgust sensitivity data from the GitHub folder:
+## Load the data file: Berger_and_Anaki_disgust_scale_2014_1_comma_delimited_cleaned.csv
 
+## You will deal with two variables: `Age`, `Mean_general_ds`
 
-## Create two variables, one containing dependents of section A10 and one for A11. 
-## Also, filter out blank values.
-
-
-## Use the A10 data for this section of the calculations: 
-
-
-## Compute the mean. Break out any calculation into a variable if you plan to 
-## reuse the value later (e.g., sample size). Verify your work
-
-
-## Compute the sums of squares. Make diagnostic remarks (indicators that indicate \
-## you are on the right track)
-
-
-## Compute the variance. Verify your calculation
-
-
-## Compute the standard deviation. Verify your calculation
-
-
-## Repeat the same steps for A11
-
-
-
-## Use the method described in this Stack Overflow article to produce two histograms 
-## blended together to show the number of dependents in each of the classes: 
-## https://stackoverflow.com/questions/3541713/how-can-i-plot-two-histograms-together-in-r
-## The answer of interest is posted by "Dirk is no longer here"
+## PRE-CHECKS
+## Generate box-plots and histograms of each of the variables and comment on normality (as per textbook definitions)
+## Use expressions such as skewness and kurtosis to characterise the shape of the distributions.
 
 
 
 
+## QUESTION 1
+## Is there a relationship between `Age` and disgust sensitivity, `Mean_general_ds`?
+## Show your work manually. Verify using built-in function. 
+## Run diagnostics to ensure your calculations are good.
 
+
+
+
+## QUESTION 2
+## Standardize the two variables and recalculate the relationship
+## Describe your findings
+
+
+
+
+## Generate a scatterplot of the variables.
+## Comment on the appearance. 
+
+
+
+
+## end of homework
