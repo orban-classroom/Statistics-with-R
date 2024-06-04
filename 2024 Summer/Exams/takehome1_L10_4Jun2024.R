@@ -21,28 +21,51 @@
 ## File name on GitHub: "takehome1_Rosati_etal_ChimpanzeeAdolescence-Data_TaskRelations.csv"
 
 
-## Variables you will use are: "RiskAffectScore", "Cortisol", "Testosterone"
+
+## Variables you will use are: "RiskAffectScore", "Sex"
+
+
+
+
+## Research Question
+## Are there sex differences in risk taking as measured by the RiskAffectScore variable?
+
+## FILTER - 10%
+## Create a filter that separates the data into low cortisol and high cortisol groups.
+## Use the mean cortisol value as the threshold below which you label the data as low cortisol
+## and above the mean cortisol value as the threshold for high cortisol data.
+
+
 
 
 
 ## DISTRIBUTION SHAPE - 30% 
-
-## Assess each of the three variables for normality. Draw on your of knowledge of normal curves, 
-## skew, kurtosis, outliers, variability to make your conclusions. Use technical language (as per textbook) and visualizations.
-## such as histograms and boxplots to support your arguments. 
-## Keep your work clean with headings and comment your code.
-
+## Create a combined histogram plotting the RiskAffectScore variable for the 
+## low and high cortisol groups. 
+## Use guidance from homework4 to plot two histograms together
+## Make sure the histograms have equal width
 
 
 
+
+
+## Concept. Describe the visual appearance of the distribution's shape based on 
+## expressions such as kurtosis and skewness (see textbook). 
+
+
+
+
+## Concept. Does anything stand in terms of the extent of risk affect scores
+## between males and females (outliers, range, min, max)
 
 
 
 
 ## CENTRAL TENDENCIES - 20%
-## Where is the middle of the data -- for each of the three variables?
+## Where is the middle of the data -- for male vs female risk affect scores?
 ## Justify your answer using concepts of normality, and measures of central tendencies. 
-## All calculations using the manual method (but you can use built-in functions for verification)
+## All calculations using the **manual method**
+## Use the built-in functions to verify your work.
 ## Keep your work clean with headings and comment your code.
 
 
@@ -56,11 +79,22 @@
 
 
 
-## VARIABILITY - 30%
-## Compute variance and standard deviation of each of the three variables.
+
+## VARIABILITY - 40%
+## Compute the sums of squares, variance and standard deviation of each of the three variables.
 ## Keep your work clean with headings and comment your code. 
 ## Compute interim variables (deviation scores, sums of squares)
 
+
+
+
+
+
+
+
+## Report the means and standard deviations below
+## What is your assessment? Does it look like there are differences in
+## risk affect score given the amount of variability in the data?
 
 
 
