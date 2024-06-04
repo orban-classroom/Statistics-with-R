@@ -2,8 +2,8 @@
 
 ## TAKE-HOME EXAM 1
 ## PSYC 2300 - APPLIED STATISTICS 1
-## WINDOW: Feb 27 - 29
-## INTENDED DURATION: 2 hours (not monitored)
+## WINDOW: June 4 - 7
+## INTENDED DURATION: 2 hours
 
 ## EXAM REGULATIOMS: 
 ## 1. Do not discuss the exam with anyone.
@@ -18,14 +18,15 @@
 ## stress levels as measured by the presence of cortisol hormone, and their 
 ## testosterone levels, among other variables. 
 
-## File name on GitHub: Rosati_etal_ChimpanzeeAdolescence-Data_TaskRelations
+## File name on GitHub: "takehome1_Rosati_etal_ChimpanzeeAdolescence-Data_TaskRelations.csv"
 
 
 ## Variables you will use are: "RiskAffectScore", "Cortisol", "Testosterone"
 
 
 
-## NORMALITY - 30% 
+## DISTRIBUTION SHAPE - 30% 
+
 ## Assess each of the three variables for normality. Draw on your of knowledge of normal curves, 
 ## skew, kurtosis, outliers, variability to make your conclusions. Use technical language (as per textbook) and visualizations.
 ## such as histograms and boxplots to support your arguments. 
@@ -53,22 +54,12 @@
 
 
 
+
+
 ## VARIABILITY - 30%
 ## Compute variance and standard deviation of each of the three variables.
 ## Keep your work clean with headings and comment your code. 
 ## Compute interim variables (deviation scores, sums of squares)
-
-
-
-
-
-
-## CORRELATIONS - 20%
-## Compute the covariance and correlationship between the following variables: 
-## RiskAffectScore x Cortisol
-## RiskAffectScore x Testosterone
-## Describe the relationship between each of those variables
-
 
 
 
