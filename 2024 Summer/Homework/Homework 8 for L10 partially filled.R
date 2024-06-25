@@ -17,12 +17,19 @@ ds_data <- read.csv(url)
 ## Create a filter that you can call "analysis_dataframe" or something similar that matches your
 ## variable naming style, and isolate the two variables in question while also removing potential NA cells.
 
+## Compose a data frame containing variables of interest
 analysis_df <- data.frame(
                   age = ds_data$Age,
                   disgust = ds_data$Mean_general_ds
 )
-analysis_df <- na.omit(analysis_df)
 
+## Data sanitization
+## Option 1
+analysis_df <- na.omit(analysis_df) ## get rid of NA's in any cell
+## Drops entire rows where a single NA is detected
+
+## Alternative method to remove NA values
+analysis_df <- analysis_df[complete.cases(analysis_df),]
 
 ## PRE-CHECKS
 ## Generate box-plots and histograms of each of the variables 
