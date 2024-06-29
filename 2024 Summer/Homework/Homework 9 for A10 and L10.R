@@ -20,7 +20,7 @@
 
 
 ## PRE-CHECKS
-## Generate box-plots and histograms of each of the variables 
+## Generate box-plots and histograms of hrv_rmssd_ibi and cortisol variables split by stress
 ## Compute skewness and kurtosis values.
 ## Comment on normality (as per textbook definitions)
 
@@ -28,7 +28,7 @@
 
 
 ## QUESTION 1
-## Compute the covariance between `Age` and `Mean_general_ds`?
+## Compute the covariance between `hrv_rmssd_ibi` and `cortisol` under no stress, and under stress?
 ## Show your work manually. Verify using built-in function and run diagnostics along the way.
 
 
@@ -37,14 +37,14 @@
 
 
 ## QUESTION 2
-## Standardize the two variables and compute the correlation coefficient manually.
+## Standardize the four variables and compute the correlation coefficient manually.
 ## Describe your findings
 
 
 
 
 
-## Generate a scatterplot of the variables.
+## Generate two scatterplots of the variables.
 ## Comment on the appearance. 
 
 
@@ -53,6 +53,7 @@
 
 
 ## Generate a barplot and add error bars representing SEM.
+
 
 
 
