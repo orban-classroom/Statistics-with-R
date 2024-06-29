@@ -1,8 +1,14 @@
 ## Homework 9
 ##############
 
-
-
+## A new data set has been added to the data folder called "stressdata.csv"
+## Relevant columns: stress, 1: stressed participants, 2: not stressed participant
+## hrv_rmssd_ibi: Heart-rate variability is a measure of sympathetic nervous system functioning. Uses the small beat to beat variation of your heart beat to estimate how well your nervous system throttles between parasympathetic and sympathetic nervous system activity. Lower numbers typically mean greater stress. 
+## cortisol: Standardized cortisol measures indicating amount of cortisol expression widely considered to be the "Stress hormone"
+## Task 1: Compute the correlation between HRV (Heart-Rate Variability) and Cortisol under each stress (1) and no-stress (0) conditions. 
+## What is the relationship between heart-rate variability and cortisol? Is the relationship identical while participants are under stress or not stressed?
+## Task 2: Create a barplot of mean HRV measures for stress + no stress conditions. Add an error bar indicating SEM
+## Task 3: Create a barplot of mean cortisol measures for stress + no stress conditions. Add an error bar indicating SEM
 
 
 ## FILTER
