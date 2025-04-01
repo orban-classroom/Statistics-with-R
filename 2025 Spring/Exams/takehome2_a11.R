@@ -70,6 +70,9 @@
 # Reach a statistical and research conclusion.
 
 
+# Generate a barplot with SEM as the error bars. 
+
+
 # PROBLEM 2
 # Research question: Is there a significant difference between Time 1 and Time 2 happiness levels for all adolescents?
 
@@ -91,5 +94,5 @@
 # Reach a statistical and research conclusion.
 
 
-
+# Generate a barplot with SEM as the error bars. 
 
