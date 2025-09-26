@@ -1,7 +1,7 @@
 ## Homework 4
-############
+##############
 
-## Load the PSYC2300 class survey data here.
+## Load the PSYC2300 class survey data here. Filename: "202510_2300_classdata.csv"
 
 
 ## Use the exercise variable for this homework. Develop your filter below.
