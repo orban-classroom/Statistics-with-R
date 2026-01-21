@@ -1,5 +1,8 @@
 ## R Homework 2
 
+## Try getting help from the StatsGPT Helper: 
+## https://chatgpt.com/g/g-69704d76c4dc8191926118b671ab2644-statsgpt-mmm
+
 ## Follow these stylistic conventions
 ## 1. Refine your own system of variable naming, and stick to it. I will be looking for consistency over the semester. You can still play arund now.
 ## 2. Use a single hashtag # for your comments. I will use ## for my comments.
