@@ -45,7 +45,7 @@
 ## Justify your answer using concepts of normality, and measures of central tendencies. 
 ## All calculations using the manual method (but you can use built-in functions for verification)
 ## Keep your work clean with headings and comment your code.
-
+## MEAN
 
 
 ## Concept Question (answer with hashtag) is there one value that represents the center?
