@@ -44,6 +44,7 @@
 << Replace this text with your code >>
 
 ## ASSSUMPTION CHECKS
+##   Note. Generate boxplots and histograms
 ##   Independent of Observations
 ##   << Replace this text with your answer >>
 
@@ -62,6 +63,7 @@
 
 
 ## t-test
+##   Note. Generate barplots with error bars
 << Replace this text with your code >>
 
 
@@ -97,6 +99,7 @@
 << Replace this text with your code >>
 
 ## ASSSUMPTION CHECKS
+##   Note. Generate boxplots and histograms
 ##   Independent of Observations
 ##   << Replace this text with your answer >>
 
@@ -113,6 +116,7 @@
 
 
 ## t-test
+##   Note. Generate barplots with error bars
 << Replace this text with your code >>
 
 
