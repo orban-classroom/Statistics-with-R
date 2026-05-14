@@ -1,5 +1,5 @@
 # Statistics I.
-This repository is maintained for Kwantlen Polytechnic University students enrolled in the PSYC 2300 Applied Statistics course, which is a undergraduate second year introductory statistics course. The repo contains lecture materials delivered in class, homework, data, and exams accompanying the course material. The textbook used in this class is Danielle Navarro's open-access textbook, "Learning Statistics with R": https://compcogscisydney.org/learning-statistics-with-r/
+This repository is maintained for PSYC 2300 Applied Statistics course, which is a undergraduate second year introductory statistics course. The repo contains lecture materials delivered in class, homework, data, and exams accompanying the course material. The textbook used in this class is Danielle Navarro's open-access textbook, "Learning Statistics with R": https://compcogscisydney.org/learning-statistics-with-r/
 
 # Topic Areas
 
